@@ -1,2 +1,2 @@
 # menu.html
-Un menu simple
+Un menu simple para tu web html personalizable y sencillo.
